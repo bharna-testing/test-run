@@ -1,0 +1,1 @@
+web: gunicorn horizontalbar:app --log-file -
